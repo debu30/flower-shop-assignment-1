@@ -301,3 +301,22 @@ margin-bottom: 0px;
     font-weight: 400;
     margin-top: 32px;
 }
+
+
+
+
+
+/* Contact section */
+.contact-sec{
+    margin-top: 128px;
+
+}
+
+.contact{
+    width: 700px;
+    height: 64px;
+    border-radius: 8px;
+background: #FFF;
+/* border: none; */
+margin-bottom: 20px;
+}
