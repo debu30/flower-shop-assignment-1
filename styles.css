@@ -227,6 +227,7 @@ border-radius: 8px;
 background: url(images/Rectangle_9.png), lightgray 0px -203.444px / 100% 213.755% no-repeat;
 margin-left: 240px;
 margin-top: 128px;
+margin-bottom: 128px;
 }
 
 
@@ -308,15 +309,46 @@ margin-bottom: 0px;
 
 /* Contact section */
 .contact-sec{
-    margin-top: 128px;
+/* background-color: #111010; */
+width: 1000px;
+height: 850px;
+border-radius: 15px;
+margin: auto;
+box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.20);
 
 }
+
+.contact-content{
+margin-left: 15%;
+padding-top: 30px;
+}
+
+.contact-title{
+    color: #272727;
+font-size: 50px;
+font-weight: 800;
+}
+
 
 .contact{
     width: 700px;
     height: 64px;
     border-radius: 8px;
 background: #FFF;
-/* border: none; */
+border: none;
 margin-bottom: 20px;
+padding-left: 20px;
+box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.10);
+}
+
+
+.contact-msg{
+    width: 700px;
+    height: 200px;
+    border-radius: 8px;
+background: #FFF;
+border: none;
+margin-bottom: 20px;
+padding-left: 20px;
+box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.10);
 }
