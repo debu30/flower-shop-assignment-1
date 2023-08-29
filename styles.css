@@ -82,6 +82,15 @@ align-items: center;
 margin-left: 240px;
 }
 
+.feature-flower{
+    margin-top: 110px;
+    margin-left: 80px;
+}
+.feature-flower-3{
+    margin-top: 67px;
+    margin-left: 80px;
+}
+
 .flower-name{
     color: #272727;
 text-align: center;
@@ -107,6 +116,7 @@ background: rgba(167, 33, 98, 0.15);
 height: 320px;
 border-radius: 8px;
 background: rgba(39, 39, 39, 0.05);
+margin-bottom: 128px;
 }
 
 
