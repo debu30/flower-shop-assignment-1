@@ -252,6 +252,42 @@ padding-left: 22px;
 
 
 /* Footer Section */
+.footer-sec{
+    background: #111010;
+    width: 1922px;
+    margin-top: 128px;
+}
+
+.footer-content{
+    padding: 128px;
+}
 
 
+.footer-title{
+color: #E55473;
+font-size: 48px;
+font-weight: 800;
+text-align: center;
+margin-bottom: 0px;
+}
 
+.shop{
+    color: #FFF;
+}
+
+.footer-text{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 24px;
+    
+}
+
+.footer-text-2{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 32px;
+}
