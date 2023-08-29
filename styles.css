@@ -55,6 +55,8 @@ font-weight: 400;
 
 
 /* feature section */
+
+
 .feature-title{
     color: #272727;
     text-align: center;
@@ -68,6 +70,7 @@ font-weight: 400;
     text-align: center;
     font-size: 18px;
     font-weight: 400;
+    margin-bottom: 48px;
 }
 
 
@@ -94,6 +97,47 @@ border-radius: 300px 300px 0px 0px;
 background: rgba(167, 33, 98, 0.15);
 }
 
-.feature-flower{
-    
+
+
+/* service section  */
+.service-section{
+    margin-top: 130px;
+    margin-left: 240px;
+    width: 1440px;
+height: 320px;
+border-radius: 8px;
+background: rgba(39, 39, 39, 0.05);
 }
+
+
+.service-logos-1{
+margin-left: 130px;
+}
+
+.service-logos-2{
+    margin-left: 130px;
+    }
+
+    
+    .service-logos-3{
+        margin-left: 50px;
+        }
+        
+
+
+.service-text{
+    color: rgba(39, 39, 39, 0.80);
+text-align: center;
+font-size: 24px;
+font-weight: 600;
+
+}
+
+.service-details{
+    display: flex;
+    justify-content: space-around;
+    padding: 80px;
+}
+
+
+/* hot deal section */
